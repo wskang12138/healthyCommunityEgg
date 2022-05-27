@@ -91,7 +91,7 @@ egg+js+mysql
 
 6.svg-captcha进行生成码验证，返回一张图片</br>
 
-7.nodemailer发动qq邮件。</br>
+7.nodemailer发送qq邮件。</br>
 
 8.采用cors进行跨域处理。
 
